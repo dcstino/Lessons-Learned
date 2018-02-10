@@ -6,7 +6,7 @@
     <li>CSS</li>
     <li>Command Line</li>
     <li>Git</li>
-
+    <li>Git Bash</li>
    </ol>
 </html>
 
